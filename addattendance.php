@@ -9,10 +9,10 @@
         </tr>
         <?php
         require_once("config.php");
-        $fetchingEmp=mysqli_query($db, "SELECT * FROM att") OR die(myssqli_error($db));
+        $fetchingEmp=mysqli_query($db, "SELECT * FROM att") OR die(mysqli_error($db));
         while($data=mysqli_fetch_assoc($fetchingEmp)){
             $emp_name=$data['emp_name'];
-            $empid=$data['count'];
+            $empid=$data['id'];
             ?>
             <tr>
                 <td><?php echo $emp_name; ?></td>
