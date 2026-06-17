@@ -14,7 +14,7 @@ $counter=0;
 
 while($emp=mysqli_fetch_assoc($fetchingEmp)){
     $empArr[]= $emp['emp_name'];
-    $idArr[]= $emp['count'];
+    $idArr[]= $emp['id'];
 }
 
 
@@ -83,5 +83,3 @@ while($emp=mysqli_fetch_assoc($fetchingEmp)){
 
 </body>
 </html>
-
-
