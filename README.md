@@ -1,16 +1,16 @@
-Hi, my name is Prakhar Kushwaha and this project is based on Employee Attendance Management. This project fulfills the basic need for recording attendance & includes the implementation of HTML,CSS,JS,PHP & MySQL.
+E-ttendance is designed to streamline the process of tracking employee attendance digitally, ensuring accuracy & enhancing efficiency in the workplace. This project fulfills the basic need for recording attendance & is created with HTML,CSS,JS,PHP & MySQL.
 
 *Attendance Dashboard for Admin*
 
-![Screenshot 2024-10-13 221808](https://github.com/user-attachments/assets/43035f31-ea47-4c48-9694-608db0002cc9)
+<img width="1887" height="737" alt="image" src="https://github.com/user-attachments/assets/1e3c151b-244a-4ca3-8a9a-c40370a09e41" />
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 *Attendance Report for Employees*
 
-![Screenshot 2024-10-13 221832](https://github.com/user-attachments/assets/bce52c4e-c110-43b8-8eb2-dc1e91aafe72)
+<img width="1900" height="662" alt="image" src="https://github.com/user-attachments/assets/cf992ce7-62f7-4fbc-874f-28bf3ad4116c" />
 
-Kindly connect with me for any suggestions/issues:
+Connect with me for any suggestions/issues:
 
 Gmail- checkoutprakhar@gmail.com
 
