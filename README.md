@@ -9,9 +9,3 @@ ________________________________________________________________________________
 *Attendance Report for Employees*
 
 <img width="1900" height="662" alt="image" src="https://github.com/user-attachments/assets/cf992ce7-62f7-4fbc-874f-28bf3ad4116c" />
-
-Connect with me for any suggestions/issues:
-
-Gmail- checkoutprakhar@gmail.com
-
-Linkedin- https://www.linkedin.com/in/prakhar-kushwaha
